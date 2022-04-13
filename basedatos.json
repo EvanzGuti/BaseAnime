@@ -1,0 +1,334 @@
+{
+  "anime": [
+    {
+      "Nombre": "anime 1",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 2",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 3",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 4",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 5",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 6",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 7",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 8",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 9",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "anime 10",
+      "Portada": "1-phwje7whqGeXXdqHjbaKLPlVhkBd-g9",
+      "Poster": "1-rhZB7ngP-JvkTup3Yu7lPdvWOjBcXY_",
+      "TemPel": [
+        {
+          "PeloTemp": "ANI Temp 1",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        },
+        {
+          "PeloTemp": "ANI Temp 2",
+          "Capitulo": [
+            {
+              "Nombre": "Capi 1",
+              "id": "1BdLKebWQQfYj6QWQfROTeF42jyt9bG86"
+            },
+            {
+              "Nombre": "Capi 2",
+              "id": "1j1E-Mpb5FiDxfxAB3mYIgDMX690rQziY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
